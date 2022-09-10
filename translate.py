@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
-
-from BOT_quillbot import Bot
+from bot import Bot
+from utilquillbot import UtilBot
 
 class BotTranslate(Bot):
     def __init__(self):
@@ -22,3 +22,11 @@ class BotTranslate(Bot):
     soup = BeautifulSoup(batatinha, 'html.parser')
     text = soup.get_text()
     print(text)
+
+
+def initBotTranslate(text):
+    Bot_Translate = Bot()
+    Bot_Translate.OpenPage(UtilBot.maptranslatebot["link"])
+    Bot_Translate.searchinput(UtilBot.maptranslatebot["xpathinput"])
+    Bot_Translate.writerinput(text)
+    Bot_Translate.Scraping(UtilBot.maptranslatebot["xpathoutput"])

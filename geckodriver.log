@@ -1169,3 +1169,145 @@ DevTools listening on ws://localhost:60235/devtools/browser/c558f902-7ba0-47bf-8
 JavaScript error: , line 0: uncaught exception: Object
 1660332525180	Marionette	INFO	Stopped listening on port 60246
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660473318456	geckodriver	INFO	Listening on 127.0.0.1:50299
+1660473321530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1FPd4j"
+1660473322070	Marionette	INFO	Marionette enabled
+1660473322076	Marionette	INFO	Listening on port 50310
+WebDriver BiDi listening on ws://localhost:50300
+Read port: 50310
+1660473322267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1FPd4j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50300/devtools/browser/91a23f68-c141-4aee-8ec5-ce44acf15607
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1660473926192	Marionette	INFO	Stopped listening on port 50311660473926570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile06g0qF"
+1660473926930	Marionette	INFO	Marionette enabled
+1660473926935	Marionette	INFO	Listening on port 50498
+WebDriver BiDi listening on ws://localhost:50487
+Read port: 50498
+1660473927158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile06g0qF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50487/devtools/browser/c79268d7-1d88-4e71-9d66-b5f885d28a1d
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDktQKYfA8LURDFHmIhwd7pqwsN55KIp6pST-3jvl2NewwgHSOtEB26ugiGcd84OBlX8WoLWL7qQYxMr0OxGhlmDWPO0544Okufs5mHGxiicTedHXM26dwC-uPUKbcLxCsYqZeL8bTmxTKLXoHiTSu3Ss2BKwHVOJEG7ZPBXtld3cJ8Lj-LV2ZkV-uuAqS2y0OlmnSgvcxmBJINjTTg7O3LW3BoeDt9XHT1Ot5mRGlyIVSwGagzw98hDPihaJZLH798BgnrM8D4-uYMLSCE4jdpCGnzZfd6DtYZNV9Q-ZcNIrwXsHjRpvBk&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile&context_uri=https%3A%2F%2Fquillbot.com line1660474319238	Marionette	INFO	Stopped listening on port 50637
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+es: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDktQKYfA8LURDFHmIhwd7pqwsN55KIp6pST-3jvl2NewwgHSOtEB26ugiGcd84OBlX8WoLWL7qQYxMr0OxGhlmDWPO0544Okufs5mHGxiicTedHXM26dwC-uPUKbcLxCsYqZeL8bTmxTKLXoHiTSu3Ss2BKwHVOJEG7ZPBXtld3cJ8Lj-LV2ZkV-uuAqS2y0OlmnSgvcxmBJINjTTg7O3LW3BoeDt9XHT1Ot5mRGlyIVSwGagzw98hDPihaJZLH798BgnrM8D4-uYMLSCE4jdpCGnzZfd6DtYZNV9Q-ZcNIrwXsHjRpvBk&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile&context_uri=https%3A%2F%2Fquillbot.com line 2 > eval line 5741 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDktQKYfA8LURDFHmIhwd7pqwsN55KIp6pST-3jvl2NewwgHSOtEB26ugiGcd84OBlX8WoLWL7qQYxMr0OxGhlmDWPO0544Okufs5mHGxiicTedHXM26dwC-uPUKbcLxCsYqZeL8bTmxTKLXoHiTSu3Ss2BKwHVOJEG7ZPBXtld3cJ8Lj-LV2ZkV-uuAqS2y0OlmnSgvcxmBJINjTTg7O3LW3BoeDt9XHT1Ot5mRGlyIVSwGagzw98hDPihaJZLH798BgnrM8D4-uYMLSCE4jdpCGnzZfd6DtYZNV9Q-ZcNIrwXsHjRpvBk&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+profile&context_uri=https%3A%2F%2Fquillbot.com&flowName=GeneralOAuthFlow line 2 > eval line 2983 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://quillbot.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDmHLiergUccE-QQnrlOcEBefrFOrm57cUSjc2cRT7NFUS_q2-3SVLzbdAZyC3KrBnr689P08CFHsmHGFat9Kee4wbmj5MI_YKl3lzCb_qC_2RzYU7iN_uyVm8rMETkwDIh2lc7Q9MhqD8ORE7dRuMMVAj2PcxapZVDE3KHLen13oItqkDxpn8V2JH-NYnVhB-XS0lhrlDAb68ETLaVUMB5bofpn7peUZ9U21YC1yyYwvLPIn-VAacWUQ62Pp-bNLeUl1F_fHzzZ_1-y3tz0BSliAznFU3HsLA_JUOLj2tYaMz81V04Zj40&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile&context_uri=https%3A%2F%2Fquillbot.com line 2 > eval line 789 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDmHLiergUccE-QQnrlOcEBefrFOrm57cUSjc2cRT7NFUS_q2-3SVLzbdAZyC3KrBnr689P08CFHsmHGFat9Kee4wbmj5MI_YKl3lzCb_qC_2RzYU7iN_uyVm8rMETkwDIh2lc7Q9MhqD8ORE7dRuMMVAj2PcxapZVDE3KHLen13oItqkDxpn8V2JH-NYnVhB-XS0lhrlDAb68ETLaVUMB5bofpn7peUZ9U21YC1yyYwvLPIn-VAacWUQ62Pp-bNLeUl1F_fHzzZ_1-y3tz0BSliAznFU3HsLA_JUOLj2tYaMz81V04Zj40&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile&context_uri=https%3A%2F%2Fquillbot.com line 2 > eval line 3531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDmHLiergUccE-QQnrlOcEBefrFOrm57cUSjc2cRT7NFUS_q2-3SVLzbdAZyC3KrBnr689P08CFHsmHGFat9Kee4wbmj5MI_YKl3lzCb_qC_2RzYU7iN_uyVm8rMETkwDIh2lc7Q9MhqD8ORE7dRuMMVAj2PcxapZVDE3KHLen13oItqkDxpn8V2JH-NYnVhB-XS0lhrlDAb68ETLaVUMB5bofpn7peUZ9U21YC1yyYwvLPIn-VAacWUQ62Pp-bNLeUl1F_fHzzZ_1-y3tz0BSliAznFU3HsLA_JUOLj2tYaMz81V04Zj40&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+profile&context_uri=https%3A%2F%2Fquillbot.com&flowName=GeneralOAuthFlow line 2 > eval line 3268 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/SignUp?continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOCbFImtu053LmRiItuRyqbLKiZVIAKzbMbhMOnKyZ7OgZdVy4NG23gaHAISirbpTZvlZfg2u9JoMRGPn_1AWIhhXFcmYMsABpEBr1emvz_wBtr6D-9RBZn7giRU7PK4M3CfKVBs-C_EgRvuGd1l_W6oW_KGe_V2fl_0YM3i9arLQNN6VEjeWkgfbhe-GHOkLLucfcsJ2OSU5S34I-PJ0Sk36Xmh5gTs2EVs-shVH0NOjn6tGDOhcFjDQi5Z4gruRc-cxM8MymO15jz8OdoLG5fcbtC2x_2gwCP5mHJbELvi3Qzr_yuHUNZ6z7AaGKsBRyDVUi4LsMxWCmmRrGWzwECQ1t2bQqBJgQyuGiUultOh0z1MnxDBjTbSsEYbnDMzezEWPf-nzpRxy59zKNbl-WahGv-RXXdybLrtzuj-H1lkFn65rFa4n64VRI2sNQC02l_kwvmjqUueDN0CDhzuaCf_IjMQA%26as%3DS-33424158%253A1660474204511312%26client_id%3D174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com%23&signInUrl=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%3Fresponse_type%3Dcode%26client_id%3D174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com%26redirect_uri%3Dhttps%253A%252F%252Fauth.quillbot.com%252F__%252Fauth%252Fhandler%26state%3DAMbdmDmHLiergUccE-QQnrlOcEBefrFOrm57cUSjc2cRT7NFUS_q2-3SVLzbdAZyC3KrBnr689P08CFHsmHGFat9Kee4wbmj5MI_YKl3lzCb_qC_2RzYU7iN_uyVm8rMETkwDIh2lc7Q9MhqD8ORE7dRuMMVAj2PcxapZVDE3KHLen13oItqkDxpn8V2JH-NYnVhB-XS0lhrlDAb68ETLaVUMB5bofpn7peUZ9U21YC1yyYwvLPIn-VAacWUQ62Pp-bNLeUl1F_fHzzZ_1-y3tz0BSliAznFU3HsLA_JUOLj2tYaMz81V04Zj40%26scope%3Dopenid%2Bhttps%253A%252F%252Fwww.googleapis.com%252Fauth%252Fuserinfo.email%2Bprofile%26context_uri%3Dhttps%253A%252F%252Fquillbot.com%26flowName%3DGeneralOAuthFlow&dsh=S-33424158%3A1660474204511312 line 2 > eval line 5448 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDm4ILa73gxMCA2AnLE5bFzyiNh31dYh0HO_IYLD0k4Yxi9vx_Vq8ZUJrb_vHuAbYjuX3yWECaxK2FolFAPg7b-HB5hE6vA1Z2NESy7u5PnnbJEocWxxOOiQscXRdE3cwfrCDXVLvDS2bfr6viijbIFIKZS4_RbM7FPqVg6PCXkDRWYhNe32S4GQN-2pQ2Ph7pKvvKx2EHwtuHkOcmApk-uzyzrlalpITe9kw2rONvh2f-4WfUDaUh44dk3IpapvglDpEaEuoy4z82pdJ2U1RvIgoJllp7Yv6Vhn7NtE42rxudj1YaW65Wo&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile&context_uri=https%3A%2F%2Fquillbot.com line 2 > eval line 3728 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=174733774878-0pfvmjagkfoeuqk20nqfs4r5mv3fabvv.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.quillbot.com%2F__%2Fauth%2Fhandler&state=AMbdmDm4ILa73gxMCA2AnLE5bFzyiNh31dYh0HO_IYLD0k4Yxi9vx_Vq8ZUJrb_vHuAbYjuX3yWECaxK2FolFAPg7b-HB5hE6vA1Z2NESy7u5PnnbJEocWxxOOiQscXRdE3cwfrCDXVLvDS2bfr6viijbIFIKZS4_RbM7FPqVg6PCXkDRWYhNe32S4GQN-2pQ2Ph7pKvvKx2EHwtuHkOcmApk-uzyzrlalpITe9kw2rONvh2f-4WfUDaUh44dk3IpapvglDpEaEuoy4z82pdJ2U1RvIgoJllp7Yv6Vhn7NtE42rxudj1YaW65Wo&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile&context_uri=https%3A%2F%2Fquillbot.com line 2 > eval line 4855 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660474304237	Marionette	INFO	Stopped listening on port 50498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660474389390	geckodriver	INFO	Listening on 127.0.0.1:50725
+1660474392468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenWalo7"
+1660474392940	Marionette	INFO	Marionette enabled
+1660474392950	Marionette	INFO	Listening on port 50737
+WebDriver BiDi listening on ws://localhost:50726
+Read port: 50737
+1660474393182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenWalo7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50726/devtools/browser/a483d63c-987c-4bc1-bf55-dc1174588e29
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript error: https://libs.quillbot.com/paraphraser/v2.2.18/browser/browser-620c77a2.js, line 1: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFo1660474914945	Marionette	INFO	Stopped listening on port 50887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660474943961	geckodriver	INFO	Listening on 127.0.0.1:51021
+1660474946978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileeh1zfo"
+1660474947430	Marionette	INFO	Marionette enabled
+1660474947434	Marionette	INFO	Listening on port 51032
+WebDriver BiDi listening on ws://localhost:51022
+Read port: 51032
+1660474947666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileeh1zfo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51022/devtools/browser/c1f7061a-a2a3-4c06-81df-ac39f0acdadc
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1660476012671	Marionette	INFO	Stopped listening on port 51032
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOieWQJ"
+1660475124840	Marionette	INFO	Marionette enabled
+1660475124845	Marionette	INFO	Listening on port 51147
+WebDriver BiDi listening on ws://localhost:51138
+Read port: 51147
+1660475125026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileOieWQJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51138/devtools/browser/a0517aa8-27da-4456-9ffb-ee4bcde85bae
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1660476011284	Marionette	INFO	Stopped listening on port 51147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660476617363	geckodriver	INFO	Listening on 127.0.0.1:56932
+1660476620405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAGzjK7"
+1660476620886	Marionette	INFO	Marionette enabled
+1660476620892	Marionette	INFO	Listening on port 56943
+WebDriver BiDi listening on ws://localhost:56933
+Read port: 56943
+1660476621093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileAGzjK7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56933/devtools/browser/af0d6f65-1ecd-445f-9d16-de97e55f121a
+1660476754353	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+1660478289644	Marionette	INFO	Stopped listening on port 56943
+0476797660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZyuRh8"
+1660476798026	Marionette	INFO	Marionette enabled
+1660476798031	Marionette	INFO	Listening on port 57069
+WebDriver BiDi listening on ws://localhost:57060
+Read port: 57069
+1660476798206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZyuRh8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57060/devtools/browser/7a173a98-da11-4948-a91a-e98f9f48093f
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1660478291133	Marionette	INFO	Stopped listening on port 57069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660690664333	geckodriver	INFO	Listening on 127.0.0.1:49858
+1660690667410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQrqyBG"
+1660690667946	Marionette	INFO	Marionette enabled
+1660690667952	Marionette	INFO	Listening on port 49868
+WebDriver BiDi listening on ws://localhost:49859
+Read port: 49868
+1660690668176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQrqyBG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49859/devtools/browser/c175b363-da81-440d-bb51-797af1eaef07
+JavaScript error: , line 0: uncaught exception: Object
+1660690900376	Marionette	INFO	Stopped listening on port 49868
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejQFC0Q"
+1660690847168	Marionette	INFO	Marionette enabled
+1660690847173	Marionette	INFO	Listening on port 50033
+WebDriver BiDi listening on ws://localhost:50024
+Read port: 50033
+1660690847352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilejQFC0Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50024/devtools/browser/60176538-c972-454a-b440-c5e47da0cf30
+1660690897605	Marionette	INFO	Stopped listening on port 50033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

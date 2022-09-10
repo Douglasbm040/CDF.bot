@@ -1,11 +1,9 @@
-from mimetypes import init
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 
-from utilquillbot import UtilBot
             
 class Bot():
     def __init__(self):
@@ -15,7 +13,6 @@ class Bot():
     def OpenPage(self,link):
         self.driver.get(link)
          
-
     def searchinput(self,input):
         time.sleep(40)
         print("entrar no campo")
@@ -32,6 +29,7 @@ class Bot():
     def SendText(self,xpathButton):
         time.sleep(40)
         button = self.driver.find_element(By.XPATH,xpathButton)
+        self.elem
         button.click()
         print("clicado")
         
@@ -47,12 +45,4 @@ class Bot():
         return self.text
     
         
-
-
-Bot_quillbot = Bot()
-Bot_quillbot.OpenPage(UtilBot.mapquillbot["link"])
-Bot_quillbot.searchinput(UtilBot.mapquillbot["xpathinput"])
-Bot_quillbot.writerinput("eu sou louco")
-Bot_quillbot.SendText(UtilBot.mapquillbot["xpathbutton"])
-Bot_quillbot.Scraping(UtilBot.mapquillbot["xpathoutput"])
 
